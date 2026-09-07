@@ -1,4 +1,4 @@
-# 📊 Scalable Customer Segmentation & Financial Decision Support Pipeline
+# Developing a Lead Analysis and Clustering System
 ### *Handling 1 Million Customer Records for Wealth Management & Hybrid Financial Services*
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
